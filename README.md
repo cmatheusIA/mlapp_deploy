@@ -1,0 +1,2 @@
+# Projeto detecção de fraudes em compras
+Base de dados retirada do [kaggle](https://www.kaggle.com/datasets/kartik2112/fraud-detection) onde usei a micro framework flask para construir a api, utilizei na construção da mesma pickle para carregar o modelo ja treinado (será disponibilizado junto o arquivo pickle e o passo a passo do treinamento e análises estátistcas será colocado em outro repositório).
